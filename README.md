@@ -4,9 +4,9 @@
 
 | App & Link | Overview |
 |-----|----------|
-| [Word](https://github.com/mortenhansenDK/M365CopilotHomework/blob/main/Word/readME.md) | Get experience in using M365 Copilot in Word be completing these assignments. |
-| [PowerPoint](https://github.com/mortenhansenDK/M365CopilotHomework/blob/main/PowerPoint/readME.md) | Get experience in using M365 Copilot in PowerPoint be completing these assignments. |
-| [Excel](https://github.com/mortenhansenDK/M365CopilotHomework/blob/main/PowerPoint/readME.md) | Get experience in using M365 Copilot in Excel be completing these assignments. |
-| [M365 Copilot Chat](./labs/public-website-agent) | Get experience in using M365 Copilot Chat be completing these assignments. |
-| [Teams](./labs/mbr-prep-sharepoint-agent) | Get experience in using M365 Copilot in Teams be completing these assignments. |
-| [Outlook](./labs/mbr-prep-sharepoint-agent) | Get experience in using M365 Copilot in Outlook be completing these assignments. |
+| [Word](https://github.com/mortenhansenDK/M365CopilotHomework/blob/main/Word/readME.md) | Get experience in using M365 Copilot in Word by completing these assignments. |
+| [PowerPoint](https://github.com/mortenhansenDK/M365CopilotHomework/blob/main/PowerPoint/readME.md) | Get experience in using M365 Copilot in PowerPoint by completing these assignments. |
+| [Excel](https://github.com/mortenhansenDK/M365CopilotHomework/blob/main/PowerPoint/readME.md) | Get experience in using M365 Copilot in Excel by completing these assignments. |
+| [M365 Copilot Chat](./labs/public-website-agent) | Get experience in using M365 Copilot Chat by completing these assignments. |
+| [Teams](./labs/mbr-prep-sharepoint-agent) | Get experience in using M365 Copilot in Teams by completing these assignments. |
+| [Outlook](./labs/mbr-prep-sharepoint-agent) | Get experience in using M365 Copilot in Outlook by completing these assignments. |
