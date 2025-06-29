@@ -2,7 +2,7 @@
 
 
 
- <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤖 M365 Copilot Homework 🧑‍🎓</h1>
+ <h1 align=center>🤖 M365 Copilot Homework 🧑‍🎓</h1>
 
 | Assignment # | Start here |
 |-----|----------|
