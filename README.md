@@ -2,9 +2,9 @@
 
  <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤖 M365 Copilot Homework 🧑‍🎓</h1>
 
-| Download files |
+| Start here |
 |-----------|
-| [Download files here](https://github.com/mortenhansenDK/M365CopilotHomework/blob/main/Homework/Word) | Test |
+| [Download files here](https://github.com/mortenhansenDK/M365CopilotHomework/blob/main/Homework/Word) |
 
 | App & Link | Overview |
 |-----|----------|
