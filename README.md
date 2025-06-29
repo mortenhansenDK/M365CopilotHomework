@@ -4,12 +4,9 @@
 
  <h1 align=center>🤖 M365 Copilot Homework 🧑‍🎓</h1>
 
-| Assignment # | Start here |
-|---------|--------|
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0 | [Download files](https://github.com/mortenhansenDK/M365CopilotHomework/tree/main/Homework/Download) |
-
-| Assignment # | App & Link | Overview |
-|------------|-------------------|-----| 
+| Assignment # | App / Link | Overview |
+|------------|-------------|----------| 
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0 | [Download files](https://github.com/mortenhansenDK/M365CopilotHomework/tree/main/Homework/Download) | Start here by downloading the files to be used in the assignments. |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1 | [Word](https://github.com/mortenhansenDK/M365CopilotHomework/blob/main/Homework/Word) | Get experience in using M365 Copilot in Word by completing these assignments. |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2 | [PowerPoint](https://github.com/mortenhansenDK/M365CopilotHomework/blob/main/Homework/PowerPoint) | Get experience in using M365 Copilot in PowerPoint by completing these assignments. |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3 | [Excel](https://github.com/mortenhansenDK/M365CopilotHomework/blob/main/Homework/Excel) | Get experience in using M365 Copilot in Excel by completing these assignments. |
