@@ -5,7 +5,7 @@
  <h1 align=center>🤖 M365 Copilot Homework 🧑‍🎓</h1>
 
 | Assignment # | Start here |
-|--------------|------------|
+|------------|----------|
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0 | [Download files](https://github.com/mortenhansenDK/M365CopilotHomework/tree/main/Homework/Download) |
 
 | Assignment # | App & Link | Overview |
