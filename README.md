@@ -2,7 +2,7 @@
 
 <h1 align="center">🤖 Test 123 </h1>
 
-| Title | App & URL | Overview |
+| Title | App & Link | Overview |
 |-------|-----|----------|
 | Word | [Word](https://github.com/mortenhansenDK/M365CopilotHomework/blob/main/Word/readME.md) | In this lab, you'll create a Copilot agent in Microsoft 365 Copilot Chat with Microsoft Copilot Studio agent builder. This agent will be designed to assist users with questions about Copilot agents. The agent will act as a learning companion or teacher, grounded in official Microsoft documentation. |
 | PowerPoint | [PowerPoint](https://github.com/mortenhansenDK/M365CopilotHomework/blob/main/PowerPoint/readME.md) | In this lab, you'll create a SharePoint-integrated AI assistant using Microsoft Copilot Studio agent builder. Designed to support sales operations, the agent can analyze Excel data from SharePoint, reference policy documents, and deliver insights through dynamic charts and images. Leveraging advanced capabilities like code interpreter and image generation, the Sales Admin Assistant transforms static content into interactive, intelligent responses—making sales trend tracking and policy compliance faster and easier. |
