@@ -1,6 +1,6 @@
 
 
-<h1 align="center">🤖 Test 123 </h1>
+<h1 align="center">🤖 M365 Copilot Homework </h1>
 
 | App & Link | Overview |
 |-----|----------|
