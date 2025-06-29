@@ -1,13 +1,19 @@
 
 
+<style>
+  .center-text {
+    text-align: center;
+  }
+</style>
+
  <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤖 M365 Copilot Homework 🧑‍🎓</h1>
 
 | Assignment # | Start here |
 |-----|----------|
 | 
-<div style="text-align: center;">
-  This text is centered.
-</div>
+
+<p class="center-text">This text is centered using a class.</p>
+
 0 | [Download files](https://github.com/mortenhansenDK/M365CopilotHomework/tree/main/Homework/Download) |
 
 | Assignment # | App & Link | Overview |
