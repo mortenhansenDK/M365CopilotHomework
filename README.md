@@ -4,7 +4,11 @@
 
 | Assignment # | Start here |
 |-----|----------|
-| <align=center>0</align> | [Download files](https://github.com/mortenhansenDK/M365CopilotHomework/tree/main/Homework/Download) |
+| 
+<div style="text-align: center;">
+  This text is centered.
+</div>
+0 | [Download files](https://github.com/mortenhansenDK/M365CopilotHomework/tree/main/Homework/Download) |
 
 | Assignment # | App & Link | Overview |
 |-----|----------|----------| 
