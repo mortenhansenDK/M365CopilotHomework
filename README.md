@@ -2,6 +2,10 @@
 
  <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤖 M365 Copilot Homework 🧑‍🎓</h1>
 
+| Download  |
+|-----|----------|
+| [Download](https://github.com/mortenhansenDK/M365CopilotHomework/blob/main/Homework/Word) | Test |
+
 | App & Link | Overview |
 |-----|----------|
 | [Word](https://github.com/mortenhansenDK/M365CopilotHomework/blob/main/Homework/Word) | Get experience in using M365 Copilot in Word by completing these assignments. |
