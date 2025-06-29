@@ -4,7 +4,7 @@
 
 | Start here |
 |-----------|
-| [Download files](https://github.com/mortenhansenDK/M365CopilotHomework/blob/main/Homework/Word) |
+| [Download files](https://github.com/mortenhansenDK/M365CopilotHomework/tree/main/Homework/Download) |
 
 | App & Link | Overview |
 |-----|----------|
