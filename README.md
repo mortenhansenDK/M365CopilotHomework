@@ -4,7 +4,7 @@
 
 | Assignment # | Start here |
 |-----|----------|
-| 0 | [Download files](https://github.com/mortenhansenDK/M365CopilotHomework/tree/main/Homework/Download) |
+| <center>0</center | [Download files](https://github.com/mortenhansenDK/M365CopilotHomework/tree/main/Homework/Download) |
 
 | Assignment # | App & Link | Overview |
 |-----|----------|----------| 
