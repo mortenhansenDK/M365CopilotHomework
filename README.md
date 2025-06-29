@@ -2,11 +2,11 @@
 
  <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤖 M365 Copilot Homework 🧑‍🎓</h1>
 
-| Assignment | Start here |
+| Assignment # | Start here |
 |-----|----------|
 | 0 | [Download files](https://github.com/mortenhansenDK/M365CopilotHomework/tree/main/Homework/Download) |
 
-| Assignment | App & Link | Overview |
+| Assignment # | App & Link | Overview |
 |-----|----------|----------| 
 | 1 | [Word](https://github.com/mortenhansenDK/M365CopilotHomework/blob/main/Homework/Word) | Get experience in using M365 Copilot in Word by completing these assignments. |
 | 2 | [PowerPoint](https://github.com/mortenhansenDK/M365CopilotHomework/blob/main/Homework/PowerPoint) | Get experience in using M365 Copilot in PowerPoint by completing these assignments. |
