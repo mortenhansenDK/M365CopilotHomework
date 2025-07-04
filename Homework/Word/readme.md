@@ -1,1 +1,1 @@
-<h1 align=center>Word</h1>
+<h1 align=center>Word - Assignments</h1>
